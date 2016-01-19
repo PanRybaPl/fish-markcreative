@@ -1,0 +1,7 @@
+name: MarkCreative
+version: 0.1
+main: pl.panryba.mc.markcreative.Plugin
+permissions:
+  markcreative.nomark:
+    description: "Wylaczenie oznaczania przedmiotow"
+    default: op
